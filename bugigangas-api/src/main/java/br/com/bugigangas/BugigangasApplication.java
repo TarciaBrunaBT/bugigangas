@@ -1,4 +1,4 @@
-package br.com.bugigangas.bugigangas;
+package br.com.bugigangas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,4 +9,5 @@ public class BugigangasApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BugigangasApplication.class, args);
 	}
+
 }
